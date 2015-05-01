@@ -1,0 +1,24 @@
+{
+  "name": "user-auth",
+  "version": "1.0.0",
+  "description": "Node user management and authentication library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.2",
+    "chai": "^2.3.0",
+    "knex": "^0.7.6",
+    "lodash": "^3.7.0",
+    "mocha": "^2.2.4",
+    "mysql": "^2.6.2",
+    "node-uuid": "^1.4.3",
+    "pg": "^4.3.0",
+    "sqlite3": "^3.0.5",
+    "util": "^0.10.3",
+    "when": "^3.7.3"
+  }
+}
